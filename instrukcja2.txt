@@ -1,0 +1,18 @@
+Pierwsza część badania
+
+
+Masz do podziału 10 punktów. Podziel je według swojego uznania na dwie
+części. Swoją decyzje zapisz w postaci dwóch liczb a pomiedzy je wstaw znak ' / ',
+pierwsza liczba to część dla Ciebie a druga dla osoby, do której kierujesz ofertę.
+
+Jeżeli gracz ją zaakcpetuje punkty zostaną dodane zarówno do Twojej sumy punktów
+jak i do jego, zgodnie z zaproponowanym przez Ciebie podziałem.
+
+
+W każdej rundzie na ekranie wyświetli się zdjęcie oraz imię drugiego gracza,
+do którego będziesz kierował swoją ofertę podziału punktów.
+
+
+
+
+

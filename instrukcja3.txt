@@ -1,0 +1,14 @@
+Druga część badania
+
+
+W tej części eksperymentu twoim zadaniem będzie przyjęcie bądź odrzucenie 
+oferty pierwszego gracza. Jeżeli zaakceptujesz ofertę to punkty zostaną
+dodane zarówno do twojej sumy punktów jak i do drugiego gracza zgodnie
+z zaproponowanym przez niego podziałem. 
+
+Jeżeli odrzucisz ofertę to ani on ani Ty nie otrzymacie punktów.
+
+Do każdej oferty podchodź indiwidualnie. 
+
+Twoja część oferty zostanie wyświetlona zielonym kolorem czcionki, natomiast
+część pozostała (pierwszego gracza) kolorem czerwonym.
